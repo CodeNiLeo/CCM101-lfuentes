@@ -1,53 +1,53 @@
-##Continue Your Linux Investigation
+## Continue Your Linux Investigation
 
-###Linux System Information
+### Linux System Information
 
-###Operating System
+### Operating System
 
 The server is running *Ubuntu 24.04.4 LTS*.
 
-- *Distributor ID:* Ubuntu
-- *Description:* Ubuntu 24.04.4 LTS
-- *Release:* 24.04
+- **Distributor ID:** Ubuntu
+- **Description:** Ubuntu 24.04.4 LTS
+- **Release:** 24.04
 
 ---
 
-###CPU Information
+### CPU Information
 
 The Linux server has the following CPU configuration:
 
-- *Architecture:* x86_64
-- *CPU(s):* 1
-- *Model Name:* Intel Xeon E312xx (Sandy Bridge, IBRS update)
-- *Core(s) per socket:* 1
-- *Thread(s) per core:* 1
+- **Architecture:** x86_64
+- **CPU(s):** 1
+- **Model Name:** Intel Xeon E312xx (Sandy Bridge, IBRS update)
+- **Core(s) per socket:** 1
+- **Thread(s) per core:** 1
 
 ---
 
-###Memory
+### Memory
 
 The server has the following memory configuration:
 
-- *Total Memory:* 1.9 Gi
-- *Used Memory:* 411 Mi
-- *Free Memory:* 844 Mi
-- *Available Memory:* 1.5 Gi
-- *Swap:* 1.0 Gi
+- **Total Memory:** 1.9 Gi
+- **Used Memory:** 411 Mi
+- **Free Memory:** 844 Mi
+- **Available Memory:** 1.5 Gi
+- **Swap:** 1.0 Gi
 
 ---
 
-###Disk Space
+### Disk Space
 
 The server has the following disk configuration:
 
-- *Total Disk Space:* 19 G
-- *Used Space:* 5.4 G
-- *Available Space:* 13 G
-- *Disk Usage:* 30%
+- **Total Disk Space:** 19 G
+- **Used Space:** 5.4 G
+- **Available Space:** 13 G
+- **Disk Usage:** 30%
 
 ---
 
-##Cloud Migration
+## Cloud Migration
 
 If this Linux server were migrated to the cloud, it could be hosted using virtual machine services from AWS, Microsoft Azure, and Google Cloud Platform (GCP).
 
@@ -68,7 +68,3 @@ If this Linux server were migrated to the cloud, it could be hosted using virtua
 ### GCP – Compute Engine
 
 **Google Compute Engine** could host this Linux server because it provides configurable virtual machines that support Linux workloads. It allows users to select the appropriate machine type, storage, and networking configuration for the server.
-
-
-
-
