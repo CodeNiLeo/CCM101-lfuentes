@@ -1,6 +1,6 @@
 # Cloud Platform Comparison
 
-## Comparison of Major Cloud Platforms
+## Compare the Major Cloud Platforms
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 |---|---|---|---|
@@ -30,7 +30,7 @@
 
 I would personally choose **Google Cloud Platform (GCP)** because of its strong capabilities in artificial intelligence, machine learning, data analytics, and Kubernetes. It also provides developer-friendly services that are useful for building and deploying modern cloud applications.
 
-## Cloud Service Equivalents
+## Match the Cloud Services
 
 The following table shows equivalent services offered by AWS, Microsoft Azure, and Google Cloud Platform (GCP).
 
